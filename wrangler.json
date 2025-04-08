@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "winter-tree-7f1b",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "286a2240-6c78-4519-af6b-e563bbe98062",
+      "database_name": "nameless-term-ca52-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
